@@ -45,4 +45,5 @@ This repository is an independent analytical project.
 It does not represent official regulatory guidance and should not replace the official legal texts and regulatory documentation.
 
 ---
-Author: ma-ro-dev-code
+Author: Maria Root
+
