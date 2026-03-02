@@ -28,4 +28,30 @@ Supervisory authorities typically expect institutions to demonstrate:
 - clear risk ownership structures
 - effective incident management processes
 - monitoring of ICT service providers
+
 - resilience testing frameworks.
+
+## Example Control Implementation
+
+Control Area: ICT Incident Management
+
+Control Objective:
+Ensure that ICT-related incidents are identified, classified and reported in a timely manner to maintain operational resilience.
+
+Control Description:
+All ICT incidents must be recorded in the incident management system. Incidents are classified based on severity levels and escalated according to the internal escalation matrix.
+
+Control Owner:
+Head of IT Operations
+
+Control Frequency:
+Continuous monitoring
+
+Evidence:
+- Incident register
+- Incident reports
+- Escalation records
+- Post-incident analysis documentation
+
+Key Risk Indicator (KRI):
+Number of high-severity ICT incidents per quarter.
